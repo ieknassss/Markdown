@@ -521,7 +521,7 @@ Sí, porque se ha convertido en un estándar dentro de la industria tecnológica
 
 La documentación fue publicada en GitHub utilizando un repositorio público. Esto permitió visualizar correctamente la estructura Markdown, las imágenes, tablas y demás elementos incluidos en el proyecto.
 
-![C¿Publicacion](imagenes/GITHUB.png)
+![Publicacion](imagenes/GITHUB.png)
 
 
 ### Organización del Proyecto
